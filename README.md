@@ -1,6 +1,14 @@
 <h2 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">Applying Machine Learning to Real Estate Valuations</h3>
 
+- 🔭 I’m currently working on ["Intro to Machine Learning for Residential Appraisers"](https://github.com/AngeloDSML/Home_Valuation)
+
+- 🌱 I’m currently learning **Computer Vision with TensorFlow**
+
+- 💬 Ask me about **real estate, scikit-learn, and matplotlib**
+
+- ⚡ Fun fact **I don't know much, but I figure it out as I go.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/angelodsml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="angelodsml" height="30" width="40" /></a>
