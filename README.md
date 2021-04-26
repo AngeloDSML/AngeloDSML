@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **real estate, scikit-learn, and matplotlib**
 
-- ⚡ Fun fact **I don't know much, but I figure it out as I go.**
+- ⚡ Fun fact **I don't know everything, but I figure it out as I go.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
