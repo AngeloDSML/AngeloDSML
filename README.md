@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">Applying Machine Learning to Real Estate Valuations</h3>
 
-- 🔭 I’m currently working on [Intro to Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1) and [Part 2](https://github.com/AngeloDSML/Home_Valuation_Part_2)
+- 🔭 I’m currently working on [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
 
 - 🌱 I’m currently learning **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **real estate, scikit-learn, and matplotlib**
+- 💬 Ask me about **Real Estate Data**
 
 - ⚡ Fun fact **I don't know everything, but I figure it out as I go.**
 
