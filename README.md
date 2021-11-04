@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
 
-- 🌱 I’m currently learning **Computer Vision with TensorFlow**
+- 🌱 I’m currently learning **Forecasting with Prophet** and **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **Real Estate Data**
-
-- ⚡ Fun fact **I don't know everything, but I figure it out as I go.**
+- 💬 Ask me about **Real Estate Data and Features**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
