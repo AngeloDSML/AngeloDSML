@@ -1,7 +1,11 @@
 <h2 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">Applying Machine Learning to Real Estate Valuations</h3>
 
-- 🔭 I’m currently working on [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP) and [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)
+- 🔭 My Projects:
+     -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
+     -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)
+     -  [Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1)
+     -  [Machine Learning for Residential Appraisers, Part 2](https://github.com/AngeloDSML/Home_Valuation_Part_2)
 
 - 🌱 I’m currently learning **Computer Vision with TensorFlow**
 
