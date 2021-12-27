@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently working on **Data Analysis with Python Certification from freeCodeCamp**
 
-- 🔮 Next will be **Computer Vision with TensorFlow**
+- 🔮 Next, I will be working on **Computer Vision with TensorFlow**
 
 - 💬 Ask me about **Visualizations, Feature importance, and Real Estate stuff**
 
