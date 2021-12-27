@@ -8,7 +8,7 @@
      -  [Machine Learning for Residential Appraisers, Part 2](https://github.com/AngeloDSML/Home_Valuation_Part_2)
      -  [Decision Tree Visualization](https://github.com/AngeloDSML/DecisionTree_Visualization)
  
-- 🌱 I’m currently working on **Data Analysis with Python Certification from freeCodeCamp**
+- 🌱 I’m currently working on **Data Analysis with Python Certification**
 
 - 🔮 Next, I will be working on **Computer Vision with TensorFlow**
 
