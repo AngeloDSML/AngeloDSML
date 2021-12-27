@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **Visualizations, Feature importance, and Real Estate**
+- 💬 Ask me about **Visualizations, Feature importance, and Real Estate stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
