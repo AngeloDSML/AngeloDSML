@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">Applying Machine Learning to Real Estate Valuations</h3>
+<h3 align="center">Data Science and Machine Learning</h3>
 
 - 🔭 My Projects:
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **Real Estate Data and Features**
+- 💬 Ask me about **Visualizations, Feature importance, and Real Estate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
