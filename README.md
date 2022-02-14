@@ -13,6 +13,6 @@
 
 - 🔮 Next, I will be working on **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **Visualizations, Feature importance, and Real Estate stuff**
+- 💬 Ask me about **Visualizations, Feature importance, Time Series, and Real Estate stuff**
 
 
