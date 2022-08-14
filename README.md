@@ -2,7 +2,7 @@
 <h3 align="center">Data Science and Machine Learning</h3>
 
 - 📃 My Projects:
-     -  [Streamlit App - Home Sales Data Analytics](https://github.com/AngeloDSML/Analytics_Streamlit_App)     
+     #-  [Streamlit App - Home Sales Data Analytics](https://github.com/AngeloDSML/Analytics_Streamlit_App)     
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)
      -  [Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1)
