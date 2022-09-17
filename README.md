@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">Data Science and Machine Learning</h3>
+<h3 align="center">Data Science and Machine Learning</h3> 🎮
 
 - 📃 My Projects:
      -  [Streamlit App - Home Sales Data Analytics](https://github.com/AngeloDSML/Analytics_Streamlit_App)
