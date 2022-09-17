@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">Data Science and Machine Learning</h3> 🎮
+<h3 align="center">Data Science and Machine Learning</h3> 
 
 - 📃 My Projects:
      -  [Streamlit App - Home Sales Data Analytics](https://github.com/AngeloDSML/Analytics_Streamlit_App)
@@ -15,6 +15,6 @@
 
 - 🔮 Next, I will be working on **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **Visualizations, Feature importance, Time Series, Analytics, Video Games, and Real Estate stuff**
+- 💬 Ask me about **Visualizations📊, Time Series📈, Analytics🧮, Video Games🎮, and Real Estate stuff🏠**
 
 
