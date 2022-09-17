@@ -15,6 +15,6 @@
 
 - 🔮 Next, I will be working on **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **Visualizations, Feature importance, Time Series, Analytics, and Real Estate stuff**
+- 💬 Ask me about **Visualizations, Feature importance, Time Series, Analytics, Video Games, and Real Estate stuff**
 
 
