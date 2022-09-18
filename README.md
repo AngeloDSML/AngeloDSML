@@ -3,7 +3,7 @@
 
 - 📃 My Projects:
      -  [Video Games Sales Data Analysis and Predictor - Streamlit App](https://angelodsml-video-games-data---home-hzjfv5.streamlitapp.com/)
-     -  [Streamlit App - Home Sales Data Analytics - Streamlit App](https://github.com/AngeloDSML/Analytics_Streamlit_App)
+     -  [Home Sales Data Analytics - Streamlit App](https://github.com/AngeloDSML/Analytics_Streamlit_App)
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)  
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
      -  [Reading Images with OpenCV](https://github.com/AngeloDSML/Reading_Images_with_OpenCV)
