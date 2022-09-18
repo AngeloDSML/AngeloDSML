@@ -2,6 +2,7 @@
 <h3 align="center">Data Science and Machine Learning</h3> 
 
 - 📃 My Projects:
+     -  [Streamlit App - Video Games Sales Data Analysis and Predictor](https://angelodsml-video-games-data---home-hzjfv5.streamlitapp.com/)
      -  [Streamlit App - Home Sales Data Analytics](https://github.com/AngeloDSML/Analytics_Streamlit_App)
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)  
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
