@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 👋</h1>
+<h2 align="center">Hello, world! 👋</h1>
 <h3 align="center">Data Science and Machine Learning</h3> 
 
 - 📃 My Projects:
