@@ -3,7 +3,6 @@
 
 - 📃 My Projects:
      -  [Home Sales Data Analytics - Streamlit App](https://github.com/AngeloDSML/Analytics_Streamlit_App)
-     -  [Video Games Sales Data Analysis and Predictor - Streamlit App](https://angelodsml-video-games-data---home-hzjfv5.streamlitapp.com/)     
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)  
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
      -  [Reading Images with OpenCV](https://github.com/AngeloDSML/Reading_Images_with_OpenCV)
@@ -16,6 +15,6 @@
 
 - 🔮 Next, I will be working on **Computer Vision with TensorFlow**
 
-- 💬 Ask me about **Data Analysis, Machine Learning, Video Games, and Real Estate stuff**
+- 💬 Ask me about **Data Analysis, Machine Learning, and Real Estate stuff**
 
 
