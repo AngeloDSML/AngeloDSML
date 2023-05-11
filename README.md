@@ -6,7 +6,6 @@
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)  
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
      -  [Reading Images with OpenCV](https://github.com/AngeloDSML/Reading_Images_with_OpenCV)
-     -  [Decision Tree Visualization](https://github.com/AngeloDSML/DecisionTree_Visualization)
      -  [Data Analysis with Python](https://github.com/AngeloDSML/Data_Analysis_with_Python)
      -  [Tutorial: Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1)
      -  [Tutorial: Machine Learning for Residential Appraisers, Part 2](https://github.com/AngeloDSML/Home_Valuation_Part_2)
