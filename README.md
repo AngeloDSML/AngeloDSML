@@ -10,9 +10,9 @@
      -  [Tutorial: Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1)
      -  [Tutorial: Machine Learning for Residential Appraisers, Part 2](https://github.com/AngeloDSML/Home_Valuation_Part_2)
  
-- 🌱 I’m currently working on **Time Series Analysis**
+- 🌱 I’m currently working on **Computer Vision**
 
-- 🔮 Next, I will be working on **Computer Vision with TensorFlow**
+- 🔮 Next, I will be working on **TensorFlow**
 
 - 💬 Ask me about **Data Analysis, Machine Learning, and Real Estate stuff**
 
