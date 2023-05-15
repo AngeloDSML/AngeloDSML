@@ -1,5 +1,4 @@
-<h2 align="center">Hello, world! 👋</h1>
-<h3 align="center">Data Science and Machine Learning</h3> 
+<h3 align="center">Data Science and Machine Learning portfolio</h3> 
 
 - 📃 My Projects:
      -  Streamlit Apps:
