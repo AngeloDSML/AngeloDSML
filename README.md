@@ -3,9 +3,9 @@
 - 📃 My Projects:
      -  Streamlit Apps:
            - [Home Sales Data Analytics](https://github.com/AngeloDSML/Analytics_Streamlit_App)
-           - [Area/Room Type Image Classifier](https://angelodsml-area-type-home-xouzqp.streamlit.app/)
-           - [Kitchen Condition Image Classifier](https://angelodsml-kitchen-condition-home-o0ra9b.streamlit.app/)
-           - [Bathroom Condition Image Classifier](https://angelodsml-bathroom-condition-home-dsz2tt.streamlit.app/)
+           - [Area/Room Type - Image Classifier](https://angelodsml-area-type-home-xouzqp.streamlit.app/)
+           - [Kitchen Condition - Image Classifier](https://angelodsml-kitchen-condition-home-o0ra9b.streamlit.app/)
+           - [Bathroom Condition - Image Classifier](https://angelodsml-bathroom-condition-home-dsz2tt.streamlit.app/)
        
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)  
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
