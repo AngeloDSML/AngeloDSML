@@ -15,7 +15,7 @@
      -  [Data Analysis with Python](https://github.com/AngeloDSML/Data_Analysis_with_Python)
 
 &nbsp;
-- 🌱 I’m currently working on **Computer Vision, NLP, and TensorFlow**
+- 🌱 I’m currently working on **TensorFlow**
 
 - 🔮 Next, I will be working on **Cloud Computing**
 
