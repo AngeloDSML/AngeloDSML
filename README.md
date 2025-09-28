@@ -8,7 +8,6 @@
            - [Kitchen Condition - Image Classifier](https://angelodsml-kitchen-condition-home-o0ra9b.streamlit.app/)
            - [Bathroom Condition - Image Classifier](https://angelodsml-bathroom-condition-home-dsz2tt.streamlit.app/)
        
-     -  [Climate change / Temperature rise visualizations](https://github.com/AngeloDSML/Climate_change)
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)
      -  [Model Explainability using SHAP](https://github.com/AngeloDSML/Explainability_SHAP)
      -  [Tutorial: Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1)
