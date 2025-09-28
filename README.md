@@ -4,7 +4,6 @@
   
 
      -  Streamlit Apps:
-           - [Home Sales Data Analytics](https://github.com/AngeloDSML/Analytics_Streamlit_App)
            - [Area/Room Type - Image Classifier](https://angelodsml-area-type-home-xouzqp.streamlit.app/)
            - [Kitchen Condition - Image Classifier](https://angelodsml-kitchen-condition-home-o0ra9b.streamlit.app/)
            - [Bathroom Condition - Image Classifier](https://angelodsml-bathroom-condition-home-dsz2tt.streamlit.app/)
@@ -18,10 +17,7 @@
      -  [Data Analysis with Python](https://github.com/AngeloDSML/Data_Analysis_with_Python)
 
 &nbsp;
-- 🌱 I’m currently working on **TensorFlow**
 
-- 🔮 Next, I will be working on **Cloud Computing**
-
-- 💬 Ask me about **Data Analysis, Machine Learning, Climate Change, and Real Estate stuff**
+- 💬 Ask me about **Data Analysis, Machine Learning, and Residential Valuations**
 
 
