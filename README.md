@@ -16,6 +16,6 @@
 
 &nbsp;
 
-- 💬 Ask me about **Data Analysis, Machine Learning, and Residential Valuations**
+- 💬 Ask me about **Data Science, Machine Learning, Optical/Light Science,and Residential Valuations**
 
 
