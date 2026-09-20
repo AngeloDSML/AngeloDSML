@@ -3,7 +3,7 @@
 - 📃 My Projects:
   
 
-     -  Streamlit Apps (Computer Vision Projects) 🔍:
+     -  Streamlit Apps (Computer Vision Projects🔍):
            - [Image Quality Analysis Lab](https://image-quality-analysis.streamlit.app/)
            - [Area/Room Type - Image Classifier](https://angelodsml-area-type-home-xouzqp.streamlit.app/)
            - [Kitchen Condition - Image Classifier](https://angelodsml-kitchen-condition-home-o0ra9b.streamlit.app/)
