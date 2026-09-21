@@ -13,7 +13,6 @@
      -  [Tutorial: Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1)
      -  [Tutorial: Machine Learning for Residential Appraisers, Part 2](https://github.com/AngeloDSML/Home_Valuation_Part_2)
      -  [Forecasting with Prophet](https://github.com/AngeloDSML/Prophet_Forecast)
-     -  [Data Analysis with Python](https://github.com/AngeloDSML/Data_Analysis_with_Python)
 
 &nbsp;
 
